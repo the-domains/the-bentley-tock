@@ -1,14 +1,26 @@
-layout_spectrum: 1
 color:
   saturation: 1
   brandStrength: 1
-  lightness: 0.2862513
+  rhythmicContrast: 0.7663802
   brandColors:
     - '#423039'
     - '#B4A391'
     - '#EACDB5'
     - '#B50514'
     - '#90920D'
-  rhythmicContrast: 0.7663802
+  lightness: 0.2862513
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
 typography_spectrum: 1
 name: The Bentley Tock
