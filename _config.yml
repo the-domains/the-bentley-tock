@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0.2862513
+  brandColors:
+    - '#423039'
+    - '#B4A391'
+    - '#EACDB5'
+    - '#B50514'
+    - '#90920D'
+  rhythmicContrast: 0.7663802
+typography_spectrum: 1
+name: The Bentley Tock
