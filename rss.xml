@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Bentley Tock]]></title>
+        <description><![CDATA[The Bentley Tock]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jan 2016 11:23:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Check out this story by Rob Cornelius on @stellerstories]]></title>
+            <description><![CDATA[<article><h1>Check out this story by Rob Cornelius on @stellerstories</h1><p>Let&#39;s Push Things Forwards Mike Skinner, "The Streets"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15fde4fd07663d11ca35dcaccc948dda58bfeccf.jpg"></article>]]></description>
+            <link>https://steller.co/s/5Kb25Cv9rEy</link>
+            <guid isPermaLink="false">288d1d66-ee60-4069-b662-e119d95d8e86</guid>
+            <pubDate>Wed, 27 Jan 2016 10:58:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
